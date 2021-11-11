@@ -1,0 +1,197 @@
+#EXTINF:-1,[000] Movistar+ HD
+rtp://@239.0.5.185:8208
+#EXTINF:-1,[001] La 1 HD
+rtp://@239.0.0.185:8208
+#EXTINF:-1,[002] La 2 HD
+rtp://@239.0.0.183:8208
+#EXTINF:-1,[003] Antena 3 HD
+rtp://@239.0.0.186:8208
+#EXTINF:-1,[004] Cuatro HD
+rtp://@239.0.0.177:8208
+#EXTINF:-1,[005] Tele 5 HD
+rtp://@239.0.0.176:8208
+#EXTINF:-1,[006] La Sexta HD
+rtp://@239.0.0.187:8208
+#EXTINF:-1,[007] #0 HD {DRM}
+rtp://@239.0.5.187:8208
+#EXTINF:-1,[008] #Vamos HD {DRM}
+rtp://@239.0.5.197:8208
+#EXTINF:-1,[013] FOX HD {DRM}
+rtp://@239.0.9.134:8208
+#EXTINF:-1,[014] AXN HD {DRM}
+rtp://@239.0.9.131:8208
+#EXTINF:-1,[015] TNT HD {DRM}
+rtp://@239.0.5.87:8208
+#EXTINF:-1,[016] Comedy Central HD {DRM}
+rtp://@239.0.0.174:8208
+#EXTINF:-1,[017] Calle 13 HD {DRM}
+rtp://@239.0.5.74:8208
+#EXTINF:-1,[018] COSMO HD {DRM}
+rtp://@239.0.5.71:8208
+#EXTINF:-1,[019] AMC HD {DRM}
+rtp://@239.0.9.132:8208
+#EXTINF:-1,[020] FOX life HD {DRM}
+rtp://@239.0.0.165:8208
+#EXTINF:-1,[021] AXN White HD {DRM}
+rtp://@239.0.5.79:8208
+#EXTINF:-1,[022] Syfy HD {DRM}
+rtp://@239.0.5.75:8208
+#EXTINF:-1,[024] La Resistencia HD {DRM}
+rtp://@239.0.5.140:8208
+#EXTINF:-1,[026] Neox HD
+rtp://@239.0.5.207:8208
+#EXTINF:-1,[027] Atreseries HD
+rtp://@239.0.0.190:8208
+#EXTINF:-1,[037] M. Fest HD
+rtp://@239.0.5.208:8208
+#EXTINF:-1,[038] TCM HD {DRM}
+rtp://@239.0.5.89:8208
+#EXTINF:-1,[039] Hollywood HD {DRM}
+rtp://@239.0.5.76:8208
+#EXTINF:-1,[040] Sundance Channel HD {DRM}
+rtp://@239.0.5.72:8208
+#EXTINF:-1,[044] DEPORTES HD {DRM}
+rtp://@239.0.0.180:8208
+#EXTINF:-1,[045] #Vamos HD {DRM}
+rtp://@239.0.5.197:8208
+#EXTINF:-1,[061] Eurosport 1 HD {DRM}
+rtp://@239.0.9.135:8208
+#EXTINF:-1,[062] Eurosport 2 HD {DRM}
+rtp://@239.0.5.105:8208
+#EXTINF:-1,[063] GOL HD
+rtp://@239.0.5.189:8208
+#EXTINF:-1,[064] Teledeporte HD
+rtp://@239.0.0.188:8208
+#EXTINF:-1,[068] Real Madrid TV HD
+rtp://@239.0.0.179:8208
+#EXTINF:-1,[069] Barça TV HD {DRM}
+rtp://@239.0.5.199:8208
+#EXTINF:-1,[070] National Geographic HD {DRM}
+rtp://@239.0.5.78:8208
+#EXTINF:-1,[071] Nat Geo Wild HD {DRM}
+rtp://@239.0.9.136:8208
+#EXTINF:-1,[072] Historia HD {DRM}
+rtp://@239.0.0.166:8208
+#EXTINF:-1,[073] Discovery Channel HD {DRM}
+rtp://@239.0.5.77:8208
+#EXTINF:-1,[074] Odisea HD {DRM}
+rtp://@239.0.5.82:8208
+#EXTINF:-1,[076] Viajar HD {DRM}
+rtp://@239.0.5.73:8208
+#EXTINF:-1,[080] Canal Cocina HD {DRM}
+rtp://@239.0.0.169:8208
+#EXTINF:-1,[082] Nova HD
+rtp://@239.0.5.209:8208
+#EXTINF:-1,[083] MEGA HD
+rtp://@239.0.5.210:8208
+#EXTINF:-1,[084] BeMad HD
+rtp://@239.0.0.182:8208
+#EXTINF:-1,[085] Bom Cine HD {DRM}
+rtp://@239.0.0.206:8208
+#EXTINF:-1,[086] Horse TV HD {DRM}
+rtp://@239.0.5.177:8208
+#EXTINF:-1,[087] Nautical Channel HD {DRM}
+rtp://@239.0.5.176:8208
+#EXTINF:-1,[089] UBEAT HD {DRM}
+rtp://@239.0.0.178:8208
+#EXTINF:-1,[091] Disney Junior HD {DRM}
+rtp://@239.0.5.181:8208
+#EXTINF:-1,[092] Canal Panda HD {DRM}
+rtp://@239.0.0.171:8208
+#EXTINF:-1,[093] Nick Jr HD {DRM}
+rtp://@239.0.0.167:8208
+#EXTINF:-1,[094] Nickelodeon HD {DRM}
+rtp://@239.0.5.204:8208
+#EXTINF:-1,[095] Dreamworks HD {DRM}
+rtp://@239.0.5.180:8208
+#EXTINF:-1,[096] Disney Channel HD
+rtp://@239.0.0.173:8208
+#EXTINF:-1,[098] Clan TVE HD
+rtp://@239.0.0.184:8208
+#EXTINF:-1,[124] El Toro TV HD
+rtp://@239.0.0.168:8208
+#EXTINF:-1,[161] Movistar Eventos HD {DRM}
+rtp://@239.0.0.203:8208
+
+-PAQUETE SERIES HD-
+
+#EXTINF:-1, [011] Movistar Series HD {DRM}
+rtp://@239.0.5.83:8208
+#EXTINF:-1, [012] Movistar Series 2 HD {DRM}
+rtp://@239.0.5.250:8208
+
+-PAQUETE CINE HD-
+
+#EXTINF:-1, [028] Movistar Biografías HD {DRM}
+rtp://@239.0.5.193:8208
+#EXTINF:-1, [030] Movistar Estrenos HD {DRM}
+rtp://@239.0.5.111:8208
+#EXTINF:-1, [031] Movistar Estrenos 2 HD {DRM}
+rtp://@239.0.5.135:8208
+#EXTINF:-1, [032] Movistar Clásicos HD {DRM}
+rtp://@239.0.5.112:8208
+#EXTINF:-1, [033] Movistar Acción HD {DRM}
+rtp://@239.0.5.113:8208
+#EXTINF:-1, [034] Movistar Comedia HD {DRM}
+rtp://@239.0.5.114:8208
+#EXTINF:-1, [035] Movistar Drama HD {DRM}
+rtp://@239.0.5.115:8208
+#EXTINF:-1, [036] Movistar Cine Español HD {DRM}
+rtp://@239.0.5.109:8208
+#EXTINF:-1, [046] M. LaLiga HD {DRM}
+rtp://@239.0.5.195:8208
+
+-PAQUETE FÚTBOL HD-
+
+#EXTINF:-1, [046] M. LaLiga HD {DRM}
+rtp://@239.0.5.195:8208
+#EXTINF:-1, [047] M. LaLiga 1 HD {DRM}
+rtp://@239.0.0.194:8208
+#EXTINF:-1, [048] M. LaLiga 2 HD {DRM}
+rtp://@239.0.6.13:8208
+#EXTINF:-1, [049] M. LaLiga 3 HD {DRM}
+rtp://@239.0.0.196:8208
+#EXTINF:-1, [050] M.Liga de Campeones HD {DRM}
+rtp://@239.0.9.80:8208
+#EXTINF:-1, [051] M.Liga de Campeones 1 HD {DRM}
+rtp://@239.0.9.81:8208
+#EXTINF:-1, [052] M.Liga de Campeones 2 HD {DRM}
+rtp://@239.0.9.82:8208
+
+#EXTINF:-1, [170] M. LaLiga 4 HD {DRM}
+rtp://@239.0.0.197:8208
+#EXTINF:-1, [171] M. LaLiga 5 HD {DRM}
+rtp://@239.0.0.198:8208
+
+#EXTINF:-1, [180] M.Liga de Campeones 3 HD {DRM}
+rtp://@239.0.9.83:8208
+#EXTINF:-1, [181] M.Liga de Campeones 4 HD {DRM}
+rtp://@239.0.9.84:8208
+#EXTINF:-1, [186] M.Liga de Campeones 9 HD {DRM}
+rtp://@239.0.5.149:8208
+#EXTINF:-1, [187] M.Liga de Campeones 10 HD {DRM}
+rtp://@239.0.5.136:8208
+#EXTINF:-1, [188] M.Liga de Campeones 11 HD {DRM}
+rtp://@239.0.5.137:8208
+
+-PAQUETE MOTOR HD-
+
+FÓRMULA 1 HD
+
+#EXTINF:-1, [058] DAZN F1 HD {DRM}
+rtp://@239.0.5.246:8208
+
+#EXTINF:-1, [220] Multicamara 1 HD F1 {DRM}
+rtp://@239.0.5.121:8208
+#EXTINF:-1, [221] Multi 1 HD F1 {DRM}
+rtp://@239.0.5.230:8208
+#EXTINF:-1, [222] Multi 2 HD F1 {DRM}
+rtp://@239.0.5.122:8208
+#EXTINF:-1, [223] Multi 3 HD F1 {DRM}
+rtp://@239.0.5.117:8208
+#EXTINF:-1, [224] Multi 4 HD F1 {DRM}
+rtp://@239.0.5.118:8208
+#EXTINF:-1, [225] Multi 5 HD F1 {DRM}
+rtp://@239.0.5.119:8208
+#EXTINF:-1, [226] Multi 6 HD F1 {DRM}
+rtp://@239.0.5.120:8208
